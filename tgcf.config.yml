@@ -1,28 +1,15 @@
-# this is sample configuration file
-# change this to suit your needs
-# link to tgcf original repo https://github.com/aahnik/tgcf
-# learn how to configure tgcf https://git.io/J3NuZ
-# learn how to run on github actions https://git.io/J3NuY
-# this is a yaml file, learn about yaml syntax here https://git.io/J3NuL
-# MIT LICENSE
-# AAHNIK 2021
-
-########################################
-
+admins:
+- nitishkumar3012
 forwards:
-  - source: -1001422786409
-    dest: -773608275
-    offset: 2875
-past:
-  delay: 1 # wait for 3s after forwarding each message
+- source: -1001179926082
+  dest:
+  - -727391052
+  offset: 3079
+  end: 0
 show_forwarded_from: false
+live:
+  delete_sync: false
+  delete_on_edit: null
+past:
+  delay: 0.0
 plugins: {}
-  # specify the plugins you want to use
-  
-# read full documentation of plugins here https://git.io/J3NuC
-
-##########################
-
-# make sure you understand the configuration before you run
-# edit this file to suit your needs
-# read more here https://github.com/aahnik/tgcf
