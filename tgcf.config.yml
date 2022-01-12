@@ -19,12 +19,12 @@ forwards:
 - source: -1001436263897
   dest:
   - -1001772181857
-  offset: 0
+  offset: 7051
   end: 0
 show_forwarded_from: false
 live:
   delete_sync: false
   delete_on_edit: null
 past:
-  delay: 3.0
+  delay: 1.0
 plugins: {}
