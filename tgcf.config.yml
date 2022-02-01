@@ -24,7 +24,7 @@ forwards:
 - source: -1001269207625
   dest:
   - -676508264
-  offset: 28819
+  offset: 29627
   end: 0
 - source: -1001422962876
   dest:
@@ -40,7 +40,7 @@ forwards:
   dest:
   - -1001636214737
   offset: 0
-  end: 0  
+  end: 0
 show_forwarded_from: false
 live:
   delete_sync: false
