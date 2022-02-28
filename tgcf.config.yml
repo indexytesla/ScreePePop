@@ -39,7 +39,7 @@ forwards:
 - source: -1001588841115
   dest:
   - -1001636214737
-  offset: 38793
+  offset: 38880
   end: 0
 - source: -1001436263897
   dest:
@@ -54,7 +54,7 @@ forwards:
 - source: -1001276141579
   dest:
   - -1001679971049
-  offset: 17635
+  offset: 17638
   end: 0
 - source: -1001462803761
   dest:
@@ -69,12 +69,12 @@ forwards:
 - source: -1001385583397
   dest:
   - -1001633491024
-  offset: 11727
+  offset: 11742
   end: 0
 - source: -1001511983836
   dest:
   - -1001633491024
-  offset: 1985
+  offset: 1990
   end: 0
 - source: -1001593465945
   dest:
