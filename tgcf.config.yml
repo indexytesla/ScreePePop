@@ -14,7 +14,7 @@ forwards:
 - source: -1001325133182
   dest:
   - -1001343888009
-  offset: 14057
+  offset: 14060
   end: 0
 - source: -1001272788230
   dest:
@@ -34,7 +34,7 @@ forwards:
 - source: -1001369338381
   dest:
   - -500375855
-  offset: 7906
+  offset: 7910
   end: 0
 - source: -1001588841115
   dest:
@@ -44,17 +44,17 @@ forwards:
 - source: -1001436263897
   dest:
   - -1001772181857
-  offset: 16585
+  offset: 16587
   end: 0
 - source: -1001163640294
   dest:
   - -1001543158898
-  offset: 28391
+  offset: 28404
   end: 0
 - source: -1001276141579
   dest:
   - -1001679971049
-  offset: 20087
+  offset: 20090
   end: 0
 - source: -1001462803761
   dest:
@@ -64,12 +64,12 @@ forwards:
 - source: -1001306294464
   dest:
   - -1001633491024
-  offset: 29441
+  offset: 29446
   end: 0
 - source: -1001385583397
   dest:
   - -1001633491024
-  offset: 19489
+  offset: 19574
   end: 0
 - source: -1001511983836
   dest:
@@ -84,7 +84,7 @@ forwards:
 - source: -1001398728413
   dest:
   - -1001633491024
-  offset: 3014
+  offset: 3015
   end: 0
 - source: -1001374724270
   dest:
@@ -104,7 +104,7 @@ forwards:
 - source: -1001594431435
   dest:
   - -542314600
-  offset: 8128
+  offset: 8191
   end: 0
 show_forwarded_from: false
 live:
