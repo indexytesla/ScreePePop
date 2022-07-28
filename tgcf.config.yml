@@ -24,7 +24,7 @@ forwards:
 - source: -1001269207625
   dest:
   - -676508264
-  offset: 48010
+  offset: 48011
   end: 0
 - source: -1001422962876
   dest:
@@ -54,7 +54,7 @@ forwards:
 - source: -1001276141579
   dest:
   - -1001679971049
-  offset: 21244
+  offset: 21247
   end: 0
 - source: -1001462803761
   dest:
@@ -94,7 +94,7 @@ forwards:
 - source: -1001677007419
   dest:
   - -1001755514803
-  offset: 10655
+  offset: 11118
   end: 0
 - source: -1001594431435
   dest:
